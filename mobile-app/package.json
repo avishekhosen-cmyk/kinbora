@@ -1,6 +1,6 @@
 {
   "name": "kinbora-business-mobile",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "private": true,
   "main": "index.js",
   "scripts": {"start":"expo start","android":"expo run:android","ios":"expo run:ios","web":"expo start --web"},
@@ -9,6 +9,7 @@
     "expo": "~54.0.37",
     "expo-status-bar": "~3.0.9",
     "react": "19.1.0",
-    "react-native": "0.81.5"
+    "react-native": "0.81.5",
+    "react-native-svg": "15.12.1"
   }
 }
