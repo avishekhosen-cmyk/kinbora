@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Kinbora Business",
+    "slug": "kinbora-business",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.kinbora.business",
+      "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "com.kinbora.business",
+      "supportsTablet": true
+    }
+  }
+}
