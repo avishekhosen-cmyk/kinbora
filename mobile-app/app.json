@@ -2,13 +2,13 @@
   "expo": {
     "name": "Kinbora Business",
     "slug": "kinbora-business",
-    "version": "1.0.1",
+    "version": "1.1.1",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
     "newArchEnabled": false,
     "android": {
       "package": "com.kinbora.business",
-      "versionCode": 2,
+      "versionCode": 3,
       "softwareKeyboardLayoutMode": "pan"
     },
     "ios": {
